@@ -1,2 +1,3 @@
-# Recap
-Quick refresher
+# TFT Game Analysis
+
+# GOAL
