@@ -7,7 +7,7 @@ To identify victory trends in TFT Game data.
 
 Source: https://www.kaggle.com/datasets/gyejr95/tft-match-data?resource=download
 
-Contains data from high ELO Ranked Games (Platinum - Challenger) including the following:
+Contains data from high ELO Ranked Games (Platinum - Challenger) including the following: /n
 gameID = Ranked Unique ID
 gameDuration = Total game duration
 level = Participant level
